@@ -1,3 +1,0 @@
--f https://download.pytorch.org/whl/cpu/  # To support cpu torch installation
-torch>=1.2.0
-faiss-gpu~=1.7.0
