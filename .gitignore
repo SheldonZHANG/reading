@@ -1,0 +1,17 @@
+*.aux
+*.DS_store
+*.aux
+*.idx
+*.log
+*.out
+*.toc
+*.4ct
+*.4tc
+*.dvi
+*.css
+*.html
+*.lg
+*.tmp
+*.xref
+*.idv
+_minted*
